@@ -1,0 +1,13 @@
+{
+  "name": "pairwise-plugin",
+  "version": "1.0.0",
+  "description": "Get generated cases as a js object.",
+  "keywords": ["pairwise", "test", "testing"],
+  "main": "index.js",
+  "scripts": {},
+  "author": "Victor Zhuravlev",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
